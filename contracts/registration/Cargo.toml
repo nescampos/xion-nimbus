@@ -1,0 +1,20 @@
+[package]
+name          = "nimbus-v0"
+authors       = ["Nestor Campos"]
+description   = "Social app to connect content creators to make money doing their jobs and subscribers interested in their contents"
+version       = "0.1"
+edition       = "2025"
+repository    = "https://github.com/nescampos/xion-nimbus"
+license       = "MIT"
+
+
+[dependencies]
+cosmos-sdk-proto = "0.19"
+cosmwasm-schema = { version = "1.2" }
+cosmwasm-std = { version = "1.5.0", features = ["ibc3"] }
+schemars = "0.8"
+serde = { version = "1.0", default-features = false, features = ["derive"] }
+serde-cw-value = "0.7"
+serde_json = "1.0"
+serde_yaml = "0.9"
+cw-storage-plus = { version = "1.1" }
