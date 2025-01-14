@@ -1,4 +1,6 @@
 # Nimbus
+![cover](https://github.com/user-attachments/assets/e3286b3f-ce1a-48fc-8800-84efb36d495a)
+
 
 **Nimbus** is a content creator's platform built on the [XION Blockchain](https://xion.burnt.com/).
 
