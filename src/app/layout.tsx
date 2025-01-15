@@ -13,6 +13,8 @@ const treasuryConfig = {
   treasury: "xion1s86hadnrgqlz5nyn67yhmrd4q5xr0d2mw942r9t3rfj827vncufs78hdc6",
 };
 
+const nimbusContract = "";
+
 export default function RootLayout({
   children,
 }: {
